@@ -1,6 +1,6 @@
 # DIVE_Animation_Repo_
 
-This award, sponsored by AutomationDirect.com, celebrates the art of digital animation and its close relationship to STEAM (Science, Technology, Engineering, Art, and Mathematics).This award celebrates the art of digital animation and its close relationship to STEAM (Science, Technology, Engineering, Art, and Mathematics).
+This award, sponsored by AutomationDirect.com, celebrates the art of digital animation and its close relationship to STEAM (Science, Technology, Engineering, Art, and Mathematics).
 
 **NEW FOR 2025:** There will be separate competitions for both FIRST Robotics Competition & FIRST Tech Challenge teams..
 
