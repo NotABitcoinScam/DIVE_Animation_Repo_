@@ -1,10 +1,20 @@
 # DIVE_Animation_Repo_
 
-Animation Storyboard
+
+## About
+
+### Theme:
+
+![Dive animation theme](Dive_Theme.png)
+
+### Judging:
+
+![Dive animation theme](Dive_Judging.png)
 
 
-Theme:
-![Dive animation theme]()
-Judging:
+
+## Animation Storyboard
+
+
 
 
