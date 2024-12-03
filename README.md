@@ -24,28 +24,28 @@ The Digital Animation Award is offered to help encourage students to cultivate s
 
   IDEAS:
 
-Person dives into water\n
-Underwater robots\n
-High dive jump\n
-As they hit the water, they are standing and then there is a controller and an ftc field.\n
-Zoom in of our robot with a zoom transition to the workshop with animated people diving into the ftc robot challenge\n
-Jump into the water\n
-Comes onto the field\n
-Zoom into robot (we’re working on it)\n
-Come out of water\n
-FTC logo and team number and maybe LOAD logo\n
-Robotic fish\n
-Diver, swims around coral reef but all life is robotic\n
-Coral reef spells LOAD\n
-Zoom out of water to see aerial view of reef that is shaped like the LOAD letters with robotic pelicans and stuff\n
-Air force song but changed to be about the ocean\n
-Load robotics to the tune of baby shark\n
-Everyone turns into robots like the pirates movie and falls into the water\n
-Dogs playing poker but they’re robots and underwater\n
-Robo shark chasing robo ship\n
-Basketball with robotic aquatic life and the ball are the ftc samples\n
-The baskets are the sample trays are the field\n
-Shellsketball with robofish\n
+Person dives into water<br/>
+Underwater robots<br/>
+High dive jump
+As they hit the water, they are standing and then there is a controller and an ftc field.
+Zoom in of our robot with a zoom transition to the workshop with animated people diving into the ftc robot challenge
+Jump into the water
+Comes onto the field
+Zoom into robot (we’re working on it)
+Come out of water
+FTC logo and team number and maybe LOAD logo
+Robotic fish
+Diver, swims around coral reef but all life is robotic
+Coral reef spells LOAD
+Zoom out of water to see aerial view of reef that is shaped like the LOAD letters with robotic pelicans and stuff
+Air force song but changed to be about the ocean
+Load robotics to the tune of baby shark
+Everyone turns into robots like the pirates movie and falls into the water
+Dogs playing poker but they’re robots and underwater
+Robo shark chasing robo ship
+Basketball with robotic aquatic life and the ball are the ftc samples
+The baskets are the sample trays are the field
+Shellsketball with robofish
 
 
 
